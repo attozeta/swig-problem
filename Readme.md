@@ -23,8 +23,8 @@ This prints 42, as expected.
 Debug-Info
 ----------
 
-- Date: 09.03.2015
-- SWIG 2.0.11
+- Date: 12.03.2015
+- SWIG 3.0.5
 - Python 2.7.6
 - g++ 4.8.2
 - Linux 3.13.0-45
